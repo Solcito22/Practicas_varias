@@ -1,4 +1,3 @@
-package es.dsrroma.school.java.desafio1.video01_03;
 
 import java.util.ArrayList;
 import java.util.List;
