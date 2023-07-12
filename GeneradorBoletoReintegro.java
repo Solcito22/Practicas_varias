@@ -1,4 +1,3 @@
-package es.dsrroma.school.java.desafio1.video01_02;
 
 public class GeneradorBoletoReintegro {
 
