@@ -1,4 +1,3 @@
-package es.dsrroma.school.java.desafio1.video01_03;
 
 public enum LetraBingo {
 	B(1, 15, 5), I(16, 30, 5), N(31, 45, 4), G(46, 60, 5), O(61, 75, 5);
